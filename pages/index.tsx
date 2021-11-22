@@ -1,6 +1,5 @@
 import React, {useEffect, useState, useRef, createRef} from 'react'
 import type { NextPage } from 'next';
-import {useFrame} from '@react-three/fiber';
 import Head from 'next/head';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
