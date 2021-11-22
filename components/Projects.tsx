@@ -53,7 +53,7 @@ const Projects: React.FC<ProjectsProps> = ({projects}) => {
                         </div>
                       ))}
                       </Stack>
-                      <Button className="my-3" variant="outline-gold"  href={project.url} target="_blank">View</Button>
+                      <a href={project.url} target="_blank" rel="noreferrer"><button className="my-3 btn btn-outline-gold">View</button></a>
                     </Card.Body>
                   </Card>
                 </Col>
