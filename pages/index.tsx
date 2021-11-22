@@ -16,7 +16,7 @@ import Background from '../components/Background';
 
 const Home: NextPage = () => {
   const [top, setTop] = useState(0);
-  const scrollArea = useRef();
+  const scrollArea = useRef() as React.MutableRefObject<HTMLInputElement>;
 
   const onScroll = (e: { target: any; }) => {
   setTop(e.target.scrollTop) 
