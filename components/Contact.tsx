@@ -10,7 +10,7 @@ interface ContactProps {
 const Contact: React.FC<ContactProps> = ({}) => {
   const [validated, setValidated] = useState(false);
 
-  const handleSubmit = (event) => {
+  const handleSubmit = (event: { currentTarget: any; preventDefault: () => void; stopPropagation: () => void; target: string | HTMLFormElement; }) => {
     const form = event.currentTarget;
     if (form.checkValidity() === false) {
       event.preventDefault();
