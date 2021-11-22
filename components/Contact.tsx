@@ -51,9 +51,9 @@ const Contact: React.FC<ContactProps> = ({}) => {
               <Form.Label className="fs-4">Message</Form.Label>
               <Form.Control required as="textarea" rows={5} name="message" placeholder="Enter message..." />
             </Form.Group>
-            <Button className="my-5 mx-2" variant="outline-purple" type="submit">
+            <button className="my-5 mx-2 btn btn-outline-purple" type="submit">
               Submit
-            </Button>
+            </button>
           </Form>
         </div>
       </div>
