@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Red Among Us IMPOSTER
+* source:	https://sketchfab.com/3d-models/simple-red-among-us-imposter-b13f848036194a38901852396e8f91b1
+* author:	SnailPot Studio (https://sketchfab.com/snailpot_studio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Red Among Us IMPOSTER" (https://sketchfab.com/3d-models/simple-red-among-us-imposter-b13f848036194a38901852396e8f91b1) by SnailPot Studio (https://sketchfab.com/snailpot_studio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
