@@ -38,7 +38,7 @@ const Projects: React.FC<ProjectsProps> = ({ projects }) => {
           </h1>
         </div>
         <Container className="p-5 text-light fs-5">
-          <Row sm={1} lg={3} className="g-4">
+          <Row xs={1} lg={3} className="g-4">
             {projects.map((project) => (
               <Col key={project.title}>
                 <Card id="card" className="h-100">
