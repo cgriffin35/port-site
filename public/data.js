@@ -50,6 +50,7 @@ export const projects = [
     stack: [
       "Typescript",
       "React",
+      "Redux",
       "Node.js",
       "Express.js",
       "PostgreSQL",
