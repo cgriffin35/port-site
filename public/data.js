@@ -6,6 +6,7 @@ export const languages = [
   "C",
   "C++",
   "C#",
+  "Java",
   "SQL",
   "HTML/CSS",
 ];
@@ -36,8 +37,8 @@ export const projects = [
     url: "https://www.mehu.app/",
     pic: "/mehu.png",
     description:
-      "2 apps/web app, one for small businesses and one for thier clients linked through the back-end, " +
-      "that allows businesses to manage their clients through a queue/calender hybrid system, increasing productivity, " +
+      "2 apps/web app, one for small businesses and one for their clients linked through the back-end, " +
+      "allows businesses to manage their clients through a queue/calender hybrid system, increasing productivity, " +
       "and allows customers to more efficiently manage their time. (Gits are private, contact me if you would like to know how they work. 😊)",
     stack: ["Typescript", "React Native", "Node.js", "Express.js", "Firebase"],
   },
